@@ -1,9 +1,9 @@
 # BEMM Token
 
 The BEMM ERC20 token represents an ownership interest in the BTC Electronic Market Maker Fund I (BTC EMM Fund I). BEMM tokens will be redeemable for ETH during the designated redemption periods.
-
+```
 ownership % = total tokens owned / total token supply
-
+```
 *Token supply will increase as ETH contributions are made to the fund.
 
 ----
